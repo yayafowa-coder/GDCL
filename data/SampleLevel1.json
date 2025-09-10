@@ -1,15 +1,15 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 77008332,
+    "name": "Gravity",
+    "author": "Amza",
+    "creators": ["Amza", "Slayer", ""],
+    "verifier": "icedcave",
+    "verification": "https://www.youtube.com/watch?v=Ba4PkcqiZa4",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "Sunwardh",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
