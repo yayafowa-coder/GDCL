@@ -3,14 +3,14 @@
     "name": "Gravity",
     "author": "Amza",
     "creators": ["Amza", "Slayer", ""],
-    "verifier": "icedcave",
+    "verifier": "Sunwardh",
     "verification": "https://www.youtube.com/watch?v=Ba4PkcqiZa4",
     "percentToQualify": 56,
     "password": "Copyable",
     "records": [
         {
-            "user": "Sunwardh",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "",
+            "link": "",
             "percent": 100,
             "hz": 360
         }
