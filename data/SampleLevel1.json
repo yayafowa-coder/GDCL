@@ -8,11 +8,5 @@
     "percentToQualify": 56,
     "password": "Copyable",
     "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
